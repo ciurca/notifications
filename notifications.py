@@ -4,7 +4,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 options = Options()
-options.add_argument("user-data-dir=C:\\Users\\roman\\AppData\\Local\\Google\\Chrome\\User Data")
+options.add_argument("user-data-dir=C:\\Users\\REPLACE\\AppData\\Local\\Google\\Chrome\\User Data")
 driver = webdriver.Chrome(options=options)
 
 def notifs(name, type, site, element, sleep):

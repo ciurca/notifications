@@ -4,3 +4,4 @@ build/
 dist/
 notifications.spec
 __pycache__/
+debug.log
