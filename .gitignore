@@ -1,2 +1,6 @@
 #idea folder
 .idea/
+build/
+dist/
+notifications.spec
+__pycache__/
